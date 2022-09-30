@@ -1,5 +1,5 @@
 #### Hi there 👋
 ## I am Ranju Raveendran. 
-### Fullstack Web Developer & I am a Game Developer.
+### Fullstack Web Developer & Game Developer.
 
-I have been working in 3D animation and my exposure to scripting in animation software got me interested in coding and software development. This inspired me to move to game development and web development. I love coding and solving coding challenges.
+I am a coding enthusiast and an admirer of the latest technologies. Recently, I moved from game development to web development. Over the past years, I worked in a wide range of areas, including Web Development, Graphics Design, XR Development, Game Development, 3D Animation and VFX. I am enjoying software development and looking for new challenges.
